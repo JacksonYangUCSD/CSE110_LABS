@@ -1,8 +1,6 @@
 Pictures
 All the core Markdown constructs in GitHub Flavored MarkdownLinks to an external site.
 Styling text
-Section links
-Ordered and Unordered Lists
 Task lists
 #Jackson Yang's INDEX.md
 ## It's only for CSE 110
@@ -13,5 +11,27 @@ This is a code quote ```print "hello world"```
 
 ## Links
 My favorite site is from [league of legends](https://www.op.gg)\
-[my attempt at a section link](/README.md)
+[my attempt at a section link](/README.md)\
 [another attempt at a link](https://github.com/JacksonYangUCSD/CSE110_LABS/blob/newBranch/index.md#link)
+
+## Lists
+# Unordered
+- Banana
+- Orange
+- Grapes
+- Apples
+- Dragon fruit
+
+# Ordered
+1. Mac
+2. Iphone
+3. Ipod
+4. Ipad
+5. Vision Pro
+
+	~~The world is flat.~~
+
+- [x] CSE110
+- [ ] CSE120
+- [ ] CSE127
+- [ ] CSE230
