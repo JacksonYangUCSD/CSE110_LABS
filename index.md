@@ -1,7 +1,3 @@
-Pictures
-All the core Markdown constructs in GitHub Flavored MarkdownLinks to an external site.
-Styling text
-Task lists
 #Jackson Yang's INDEX.md
 ## It's only for CSE 110
 ### With Thomas Powell.\
