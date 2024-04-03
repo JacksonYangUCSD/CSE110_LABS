@@ -1,6 +1,6 @@
 #Jackson Yang's INDEX.md
 ## It's only for CSE 110
-### With Thomas Powell.\
+### With Thomas Powell.
 This is a code quote ```print "hello world"```
 >And this is my text quote
 
