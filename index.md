@@ -11,5 +11,5 @@ Task lists
 This is a code quote ```print "hello world"```
 >And this is my text quote
 
-My favorite site is from [league of legends](https://www.op.gg)
-[my attempt at a section link](\README.md)
+My favorite site is from [league of legends](https://www.op.gg)\
+[my attempt at a section link](/README.md)
