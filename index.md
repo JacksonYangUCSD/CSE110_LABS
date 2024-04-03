@@ -31,3 +31,5 @@ My favorite site is from [league of legends](https://www.op.gg)\
 - [ ] CSE120
 - [ ] CSE127
 - [ ] CSE230
+
+![My favorite Anime](https://miro.medium.com/v2/resize:fit:1400/1*2YvC-WqO7gFkpFzNrqQ6Eg.jpeg)
