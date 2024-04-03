@@ -1,2 +1,2 @@
 # CSE110_LABS
-  Jackson's User Page
+  Jackson Yang's User Page
